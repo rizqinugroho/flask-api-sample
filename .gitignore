@@ -1,0 +1,3 @@
+virtualenv/
+games.db
+__pycache__
